@@ -60,7 +60,7 @@ function draw() {
           carGroup1[i].x=0}
         }
      
-    keyPressed()
+    
 
    
   drawSprites();
