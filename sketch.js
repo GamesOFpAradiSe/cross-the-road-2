@@ -44,7 +44,7 @@ function draw() {
 
   //car reset cod 2 if condition for loop
     
-     for(i =1; i <logGroup1.length; i++){
+    for(i =1; i <logGroup1.length; i++){
       if(logGroup1[i].x<0){
        logGroup1[i].x=width}
       }
