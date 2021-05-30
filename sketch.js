@@ -56,7 +56,7 @@ function draw() {
         }
         
         for(i =1; i <carGroup1.length; i++){
-        if(carGroup1[i].x===700){
+        if(carGroup1[i].x>width){
           carGroup1[i].x=0}
         }
      
